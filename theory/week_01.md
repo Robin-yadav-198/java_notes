@@ -59,7 +59,7 @@ low level language directly talks to computers so the problems are:\
 ### ⚖️ Python vs java
 **🧠Python Execution Flow**
 ```text
-Python source (.py)
+Python source/code containing file (.py)
       ↓
 Python Interpreter
       ↓
@@ -76,7 +76,7 @@ Platform-specific execution
 
 **🧠Java Execution Flow**
 ```text
-Java source (.java)
+Java source/code containing file (.java)
       ↓
 Java Compiler
       ↓
