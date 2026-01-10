@@ -42,3 +42,14 @@ low level language directly talks to computers so the problems are:\
 5. aggregate data structure(a process that compiles and organizes large datasets into useful insights)-- list, arrays, dictionary
 - we know modern programming language like python,java etc follows all these rules like they have loops,conditional statements. This makes these programming language more compfy to humans .\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; but now problem is that computer dosenot understand these high level programming langauge ...to sort this problem we had compiler and interpreter.
+
+**compiler vs interpreter :**
+|Feature	|Compiler	|Interpreter|
+|--------|---------|-----------|
+|Translation(converting a program written in one language into another language that the computer can understand)|	Whole program at once|	Line by line|`
+|Execution|	After compilation|	During translation
+|Error handling|	Shows all errors together|	Stops at first error|
+|Speed	|Faster execution|	Slower execution|
+|Output| file	Generates executable|	No executable|
+|Memory|	More (stores object code)|	Less|
+|Portability	|Less|	More|
