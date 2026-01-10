@@ -11,8 +11,8 @@ Traditionally (in the early days), programmers used low-level languages to write
 - They are machine-dependent.
 - They are difficult for humans to read and write.
 - They provide very little abstraction from hardware.\
+[low level diagram](image/the.png)
 
-[low level diagram](image/the.png)\
 **why low level language are not optimal to use ❔**\
 -->how low level language works :\
 low level language directly talks to computers so the problems are:\
