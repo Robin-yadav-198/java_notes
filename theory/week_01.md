@@ -52,4 +52,4 @@ low level language directly talks to computers so the problems are:\
 |Speed	|Faster execution|	Slower execution|
 |Output| file	Generates executable| not any file generates|
 |Memory|	More (stores object code)|	Less|
-|Portability	|Less|	More|
+|Portability	|Less(same code maynot be run on multiple compiler)|	More(same code can run on multiple compiler)|
