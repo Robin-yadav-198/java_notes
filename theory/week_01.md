@@ -1,9 +1,9 @@
 # lecture 1.1<br>
-**❔ what is programmig language ❔**\
+📚**❔ what is programmig language ❔**\
   *language -- language is a medium of communication between 2 entities .*\
   **programming language** - language that helps to communicate between humans and computers.
 
-### low level language 
+### 📚low level language 
 _Low-level language woh language hoti hai jo hardware ke bahut paas hoti hai.
 Computer ko directly samajh aati hai, lekin humans ke liye difficult hoti hai._
 Traditionally (in the early days), programmers used low-level languages to write programs.
@@ -19,7 +19,7 @@ first form RAM the data is transferred to register and the alu computes on it ..
 
 🧠 to overcome this we need abstraction
 
-### Abstraction:
+### 📚Abstraction:
 Parts of abstraction:
 1. assiging values to named variable
 2. conditional execution (if else block)
