@@ -46,10 +46,10 @@ low level language directly talks to computers so the problems are:\
 **compiler vs interpreter :**
 |Feature	|Compiler	|Interpreter|
 |--------|---------|-----------|
-|Translation(converting a program written in one language into another language that the computer can understand)|	Whole program at once|	Line by line|`
-|Execution|	After compilation|	During translation
+|**Translation**(converting a program written in one language into another language that the computer can understand)|	Whole program at once|	Line by line|`
+|**Execution**(Execution means running the translated program so that the computer actually performs the instructions.)|	After compilation|	During translation
 |Error handling|	Shows all errors together|	Stops at first error|
 |Speed	|Faster execution|	Slower execution|
-|Output| file	Generates executable|	No executable|
+|Output| file	Generates executable| not any file generates|
 |Memory|	More (stores object code)|	Less|
 |Portability	|Less|	More|
