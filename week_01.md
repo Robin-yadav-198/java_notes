@@ -12,4 +12,4 @@ Traditionally (in the early days), programmers used low-level languages to write
 - They are difficult for humans to read and write.
 - They provide very little abstraction from hardware.\
 
-[low level diagram](image/)
+[low level diagram](image/the.png)
