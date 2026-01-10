@@ -53,3 +53,40 @@ low level language directly talks to computers so the problems are:\
 |Output| file	Generates executable| not any file generates|
 |Memory|	More (stores object code)|	Less|
 |Portability	|Less(same code maynot be run on multiple compiler)|	More(same code can run on multiple compiler)|
+
+
+### ⚖️ Python vs java
+**🧠Python Execution Flow**
+```text
+Python source (.py)
+      ↓
+Python Interpreter
+      ↓
+Platform-specific execution
+```
+**Key points:**
+- Python code is not compiled into machine code
+- Same .py file runs on:
+  - Windows
+  - Linux
+  - macOS
+- You only need a Python interpreter for that OS
+- 👉 Source code portability
+
+**🧠Java Execution Flow**
+```text
+Java source (.java)
+      ↓
+Java Compiler
+      ↓
+Bytecode (.class)
+      ↓
+JVM
+      ↓
+Machine
+```
+**Key points:**
+- Java source → bytecode
+- Bytecode is platform-independent
+- JVM handles OS/CPU differences
+- 👉 Bytecode portability
