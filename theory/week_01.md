@@ -15,14 +15,29 @@ Traditionally (in the early days), programmers used low-level languages to write
 [low level diagram](image/the.png)\
 **why low level language are not optimal to use ❔**\
 -->how low level language works :\
-first form RAM the data is transferred to register and the alu computes on it ..the problem is register are in less number so first some data is put on register from ram then we compute acc to that data after that result is send to ram and then from lefted data register take data and compute on them .... this take much time and this process is error-prone also.  
+low level language directly talks to computers so the problems are:\
+1.```Difficult to Understand :``` Written in binary or assembly so it is Hard for humans to read and write and Requires deep hardware knowledge\
+2.```Machine Dependent :``` Code written for one CPU won’t run on another\
+  Example: x86 vs ARM \
+3.```Hard to Debug & Maintain :```
+- Small mistake → program crash
+- Debugging is complex
+- Maintenance takes more time
+4. ```Time-Consuming Development :``` Writing code takes longer because Every instruction must be managed manually
+5. ```No Portability :```Cannot easily move program between systems .Must rewrite code for each architecture
+6. Limited Abstraction
+- Programmer must manage:
+  - Memory
+  - Registers
+  - hardware resources
+- Increases chances of errors
 
-🧠 to overcome this we need abstraction
+🧠 to overcome this we need a language which follows some rule of abstraction
 
-### 📚Abstraction:
-Parts of abstraction:
+### 📚Rules ofAbstraction:
 1. assiging values to named variable
 2. conditional execution (if else block)
 3. iteration(loops)
 4. Functions/procedures, recursion
-5. aggregate data structure(a process that compiles and organizes large datasets into useful insights)-- list, arrays, dictionary
+5. aggregate data structure(a process that compiles and organizes large datasets into useful insights)-- list, arrays, dictionary\
+we know modern programming language like python,java etc follows all these rules like they have loops   
