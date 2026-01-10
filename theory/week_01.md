@@ -12,4 +12,7 @@ Traditionally (in the early days), programmers used low-level languages to write
 - They are difficult for humans to read and write.
 - They provide very little abstraction from hardware.\
 
-[low level diagram](image/the.png)
+[low level diagram](image/the.png)\
+**why low level language are not optimal to use ❔**\
+-->how low level language works :\
+first form RAM the data is transferred to register and the alu computes on it ..the problem is register are in less number so first some data is put on register from ram then we compute acc to that data after that result is send to ram and then from lefted data register take data and compute on them .... this take much time and this process is error-prone also.  
