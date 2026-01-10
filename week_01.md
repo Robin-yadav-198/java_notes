@@ -10,4 +10,6 @@ Traditionally (in the early days), programmers used low-level languages to write
 - Low-level languages are very close to computer hardware.
 - They are machine-dependent.
 - They are difficult for humans to read and write.
-- They provide very little abstraction from hardware.
+- They provide very little abstraction from hardware.\
+
+[low level diagram](image/)
