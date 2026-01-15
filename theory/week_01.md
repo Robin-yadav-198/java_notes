@@ -93,3 +93,5 @@ Machine
 - Bytecode is platform-independent
 - JVM handles OS/CPU differences
 - 👉 Bytecode portability
+
+
